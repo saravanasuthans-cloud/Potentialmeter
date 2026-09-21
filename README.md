@@ -27,11 +27,11 @@ A simple electronic circuit constructed on a breadboard using an LED, potentiome
 
 ### 
 
-### **![][image1]**
+![](IMG-20260921-WA0002.jpg)
 
 ### **RESULT**
 
-![][image2]
+![](IMG-20260921-WA0001.jpg)
 
 ### 
 

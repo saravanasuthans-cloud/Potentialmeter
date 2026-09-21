@@ -31,7 +31,7 @@ A simple electronic circuit constructed on a breadboard using an LED, potentiome
 
 ### **RESULT**
 
-![](IMG-20260921-WA0001.jpg)
+![](IMG-20260921-WA0003.jpg)
 
 ### 
 
